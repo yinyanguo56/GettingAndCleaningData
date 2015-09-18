@@ -135,7 +135,8 @@ fBodyBodyGyroJerkMagMean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     12
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mean value of FbodyBodyGyroJerkMag. Original variable: FbodyBodyGyroJerkMag-mean()  
 fBodyBodyGyroJerkMagStd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     12  
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standard deviation of fBodyBodyGyroJerkMag. Original variable: fBodyBodyGyroJerkMag-std()  
-
+  
+## Note:
 - Each features were deliminated with space
 - Extract the features step:
  

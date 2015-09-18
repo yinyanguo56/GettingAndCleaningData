@@ -1,11 +1,11 @@
-#ACTIVIY-TRACKING BY SAMSUNG GALAXY S
--subject     2
+#Features dictionary
+- subject     2
             The ID of the test subject
--activity    18
+- activity    18
             The type of activity performed when the corresponding measurements were taken
--tBodyAccMeanX     12
+- tBodyAccMeanX     12
            Mean value of tBodyAcc-X.  Original variable: tBodyAcc-mean()-X
--tBodyAccMeanY     12  
+- tBodyAccMeanY     12  
            Mean value of tBodyAcc-Y. Original variable: tBodyAcc-mean()-Y
 -tBodyAccMeanZ     12
            Mean value of tBodyAcc-Z. Original variable: tBodyAcc-mean()-Z

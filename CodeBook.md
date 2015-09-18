@@ -1,6 +1,6 @@
 #Features dictionary
 subject&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      2  
-            The ID of the test subject  
+            &nbsp;&nbsp;&nbsp; The ID of the test subject  
 activity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    18  
             The type of activity performed when the corresponding measurements were taken  
 tBodyAccMeanX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     12

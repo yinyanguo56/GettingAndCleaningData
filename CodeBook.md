@@ -1,47 +1,47 @@
 #Features dictionary
-- subject     2
-            The ID of the test subject
-- activity    18
-            The type of activity performed when the corresponding measurements were taken
+- subject     2  
+            The ID of the test subject  
+- activity    18  
+            The type of activity performed when the corresponding measurements were taken  
 - tBodyAccMeanX     12
            Mean value of tBodyAcc-X.  Original variable: tBodyAcc-mean()-X
 - tBodyAccMeanY     12  
            Mean value of tBodyAcc-Y. Original variable: tBodyAcc-mean()-Y
--tBodyAccMeanZ     12
+- tBodyAccMeanZ     12
            Mean value of tBodyAcc-Z. Original variable: tBodyAcc-mean()-Z
--tBodyAccStdX     12
+- tBodyAccStdX     12
             Standard deviation of tBodyAcc-X. Original variable: tBodyAcc-std()-X
--tBodyAccStdY     12
+- tBodyAccStdY     12
             Standard deviation of tBodyAcc-Y. Original variable: tBodyAcc-std()-Y
--tBodyAccStdZ     12
+- tBodyAccStdZ     12
             Standard deviation of tBodyAcc-Z. Original variable: tBodyAcc-std()-Z
--tGravityAccMeanX     12
+- tGravityAccMeanX     12
             Mean value of tGravityAcc-X. Original variable: tGravityAcc-mean()-X
--tGravityAccMeanY     12
+- tGravityAccMeanY     12
             Mean value of tGravityAcc-Y. Original variable: tGravityAcc-mean()-Y
--tGravityAccMeanZ     12
+- tGravityAccMeanZ     12
             Mean value of tGravityAcc-Z. Original variable: tGravityAcc-mean()-Z
--tGravityAccStdX     12
+- tGravityAccStdX     12
             Standard deviation of tGravityAcc-X. Original variable: tGravityAcc-std()-X
--tGravityAccStdY     12
+- tGravityAccStdY     12
             Standard deviation of tGravityAcc-Y. Original variable: tGravityAcc-std()-Y
--tGravityAccStdZ     12
+- tGravityAccStdZ     12
             Standard deviation of tGravityAcc-Z. Original variable: tGravityAcc-std()-Z
--tBodyAccJerkMeanX     12
+- tBodyAccJerkMeanX     12
             Mean value of tBodyAccJerk-X. Original variable: tBodyAccJerk-mean()-X
--tBodyAccJerkMeanY     12
+- tBodyAccJerkMeanY     12
             Mean value of tBodyAccJerk-Y. Original variable: tBodyAccJerk-mean()-Y
--tBodyAccJerkMeanZ     12
+- tBodyAccJerkMeanZ     12
             Mean value of tBodyAccJerk-Z. Original variable: tBodyAccJerk-mean()-Z
--tBodyAccJerkStdX     12
+- tBodyAccJerkStdX     12
             Standard deviation of tBodyAccJerk-X. Original variable: tBodyAccJerk-std()-X
--tBodyAccJerkStdY     12
+- tBodyAccJerkStdY     12
             Standard deviation of tBodyAccJerk-Y. Original variable: tBodyAccJerk-std()-Y
--tBodyAccJerkStdZ     12
+- tBodyAccJerkStdZ     12
             Standard deviation of tBodyAccJerk-Z. Original variable: tBodyAccJerk-std()-Z
--tBodyGyroMeanX      12           
+- tBodyGyroMeanX      12           
             Mean value of tBodyGyro-X. Original variable: tBodyGyro-mean()-X
--tBodyGyroMeanY      12      
+- tBodyGyroMeanY      12      
             Mean value of tBodyGyro-Y. Original variable: tBodyGyro-mean()-Y
 -tBodyGyroMeanZ     12    
             Mean value of tBodyGyro-Z. Original variable: tBodyGyro-mean()-Z

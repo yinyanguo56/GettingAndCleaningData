@@ -12,8 +12,6 @@
  - The script was executed in Rstudio.
 
  ## original data sets:
-
-
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0

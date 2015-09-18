@@ -136,9 +136,10 @@ fBodyBodyGyroJerkMagMean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     12
 fBodyBodyGyroJerkMagStd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     12  
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standard deviation of fBodyBodyGyroJerkMag. Original variable: fBodyBodyGyroJerkMag-std()  
   
+    
 ## Note:
 - Each features were deliminated with space
-- Extract the features step:
+- The steps taked to extract the features:
  
  * Merges the training and the test sets to create one data set.
 

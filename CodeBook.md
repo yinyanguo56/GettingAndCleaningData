@@ -1,8 +1,8 @@
 #Features dictionary
 subject&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      2  
-            &nbsp;&nbsp;&nbsp; The ID of the test subject  
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ID of the test subject  
 activity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    18  
-            The type of activity performed when the corresponding measurements were taken  
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type of activity performed when the corresponding measurements were taken  
 tBodyAccMeanX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     12
            Mean value of tBodyAcc-X.  Original variable: tBodyAcc-mean()-X
 tBodyAccMeanY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     12  
